@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.2.7)  16 MAR 2026 14:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.2.7)  16 MAR 2026 14:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -182,7 +182,8 @@ Package caption Info: New subtype `subtable' on input line 238.
 tex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count302
-) (The Acoustic-Metric Equivalence.aux)
+)
+No file "The Acoustic-Metric Equivalence".aux.
 \openout1 = `"The Acoustic-Metric Equivalence.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
@@ -328,8 +329,18 @@ Overfull \hbox (28.0631pt too wide) in paragraph at lines 229--238
  [][] 
  []
 
+
+LaTeX Warning: Reference `table:gforce_calibration' on page 8 undefined on inpu
+t line 243.
+
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 246--247
+Overfull \hbox (24.50162pt too wide) in paragraph at lines 244--244
+[]\OT1/cmr/bx/n/14.4 Hardware Im-ple-men-ta-tion: Graphene-Acoustic Plas-mons (
+AGP) 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
 
  []
 
@@ -338,12 +349,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 246--247
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 4251 strings out of 467871
- 72948 string characters out of 5418377
- 489670 words of memory out of 5000000
- 33109 multiletter control sequences out of 15000+600000
+ 4248 strings out of 467871
+ 72811 string characters out of 5418377
+ 489506 words of memory out of 5000000
+ 33108 multiletter control sequences out of 15000+600000
  636120 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,12n,77p,898b,377s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -365,7 +383,7 @@ blic/amsfonts/cm/cmsy10.pfb><C:/Users/shaim/AppData/Local/Programs/MiKTeX/fonts
 /type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/shaim/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/shaim/AppData/Local/Prog
 rams/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on "The Acoustic-Metric Equivalence.pdf" (10 pages, 1523897 byte
+Output written on "The Acoustic-Metric Equivalence.pdf" (10 pages, 1527252 byte
 s).
 PDF statistics:
  126 PDF objects out of 1000 (max. 8388607)
