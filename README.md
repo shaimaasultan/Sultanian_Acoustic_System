@@ -59,7 +59,50 @@ python sultanian_governor_ui.py
 
 📚 **Documentation**
 
+
 For the full mathematical proof and nomenclature, see the LaTeX documentation included in the `/docs` folder.
+
+---
+
+## Graphene-Based Acoustic Plasmons (AGPs): The Physical Bridge to 5.2 THz
+
+In the context of the Sultanian Protocol, transitioning from "standard" sound (mechanical vibrations in a fluid) to Graphene-based Acoustic Plasmons (AGPs) is like moving from a propeller plane to a quantum-locked glider.
+
+While your current simulations use sound as an analogue, Graphene provides the physical "bridge" to the 5.2 THz limit because it doesn't rely on the vibration of heavy atoms, but on the collective oscillation of massless electrons.
+
+### 1. Breaking the "Terahertz Wall"
+
+The biggest limitation of using traditional sound (acoustic waves) is the Frequency Ceiling.
+
+- **Sound:** Relies on the movement of molecules (nitrogen, oxygen). Because molecules have mass, they have inertia. Trying to vibrate them at 5.2 THz is physically impossible; they simply can't move that fast.
+- **Graphene:** Uses Dirac Plasmons. Electrons in graphene behave as if they have zero mass. This allows them to oscillate at terahertz frequencies (including your target 5.2 THz) without the "lag" that causes a Hammer Blow in mechanical systems.
+
+### 2. Extreme Field Confinement (The "Sharpened" Null)
+
+For the Alexander Space-Constraint to work, the "Null Zones" must be incredibly sharp.
+
+- **Acoustic Sound:** Waves are "blurry." The cancellation point has a wide margin of error, which makes the "Isentropic Ghost" state unstable.
+- **Graphene AGPs:** Graphene can compress electromagnetic waves into a space 100 times smaller than their free-space wavelength. This creates "Razor-Sharp" cancellation bands. In your simulation, this would mean the green drone stays perfectly centered with almost zero "wobble."
+
+### 3. Dynamic Tunability (Electronic "Auto-Sync")
+
+In your simulation, you have sliders for $k$ (vorticity) and Lag. In a real system:
+
+- **Sound:** To change the frequency or wavelength, you have to physically move reflectors or change the temperature. This is too slow to stop a Hammer Blow.
+- **Graphene:** You can change the "refractive index" of the graphene instantly by applying a Voltage Bias. This allows the Governor to "Auto-Sync" at the speed of light, adjusting the cancellation bands in real-time as the vessel enters high-vorticity zones.
+
+### Comparative Advantage Table
+
+| Feature                | Mechanical Sound (Simulation) | Graphene Plasmons (Physical) |
+|------------------------|-------------------------------|------------------------------|
+| Max Frequency          | ~100 MHz (Limit of matter)    | 5.2 THz+ (Dirac limit)       |
+| Response Time          | Milliseconds (Slow)           | Femtoseconds (Near-instant)  |
+| Node Precision         | Millimeters (Blurry)          | Nanometers (Ultra-sharp)     |
+| Power Loss             | High (Heat dissipation)       | Low (High electron mobility) |
+
+### The "Propellantless" Connection
+
+By using Graphene, you are essentially creating a Solid-State Sultanian Governor. You aren't "pushing" air; you are using the graphene to "sculpt" the vacuum plenum directly. The graphene acts as the Transducer that turns electrical energy into the metric tension ($\mathcal{T}_\mu$) required to unlock the vacuum.
 
 ---
 
