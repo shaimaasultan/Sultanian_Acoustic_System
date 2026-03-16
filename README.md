@@ -28,6 +28,8 @@ The simulation maps digital "Decibel" levels to astronomical G-forces.
 | 140 dB             | 1,000 G       | High-Vorticity Manifold      |
 | Lag > 0.02         | Critical      | Hammer Blow (Failure)        |
 
+<img src="Sultanian_Sound/images/Screenshot2026-03-16133053.png"/>
+<img src="Sultanian_Sound/images/Screenshot2026-03-16135202.png"/>
 📊 **Simulation Results**
 
 1. **The Stable Corridor**
